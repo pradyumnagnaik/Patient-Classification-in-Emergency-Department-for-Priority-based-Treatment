@@ -25,7 +25,7 @@ In real time, it is crucial to identify high-risk and low-risk patients in the I
 
 <img width="745" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/e4a399c8-35bf-4437-b061-10a6d456c49a">
 
-# DataSet Page
+# Dataset Page
 
 <img width="734" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/1e84eb3a-0cc9-49b4-ae7c-97b306f08791">
 
