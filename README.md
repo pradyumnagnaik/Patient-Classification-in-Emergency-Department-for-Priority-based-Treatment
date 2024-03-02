@@ -7,25 +7,25 @@ In real time, it is crucial to identify high-risk and low-risk patients in the I
 
 # Admin Login Page
 
-![image](https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/3b602778-82ce-4d25-a3f0-b7fe90b7cabb)
+<img width="640" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/d1529a53-66c0-4775-9884-5dce2c1402ea">
 
 # Admin Home Page
 
-![image](https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/46fecf8a-e40d-4abf-8dc3-b182042818e2)
+<img width="647" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/f47cf208-d05f-4ab4-a590-a7c7228d22be">
 
 # Admin Module - Existing Users Page
 
-![image](https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/9a52ef6a-8f93-4a6b-99af-22c521c4adac)
+<img width="647" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/ac61bf91-2786-4100-aff8-ac1b8af9d035">
 
 # Member Registration Page
 
-![image](https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/089a869a-8401-40e9-a4b6-b7fd2c711e40)
+<img width="695" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/459af70c-14c7-4731-b1f2-c59d6b44aa6e">
 
 # Member Profile Updation Page
 
-![image](https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/eaeed3ab-516d-430e-813b-0434a5610dd1)
+<img width="745" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/e4a399c8-35bf-4437-b061-10a6d456c49a">
 
 # DataSet Page
 
-![image](https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/e95c4e09-0f03-46e9-b6b8-3da6916ed970)
+<img width="734" alt="image" src="https://github.com/pradyumnagnaik/Patient-Classification-in-Emergency-Department-for-Priority-based-Treatment/assets/135484402/1e84eb3a-0cc9-49b4-ae7c-97b306f08791">
 
